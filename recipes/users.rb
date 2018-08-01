@@ -5,7 +5,7 @@
 # Copyright:: Copyright (c) 2017-present Sonatype, Inc. Apache License, Version 2.0.
 
 user 'nexus' do
-  uid '200'
+  uid '3054'
   comment 'Nexus Repository Manager user'
   system true
   shell '/bin/false'
